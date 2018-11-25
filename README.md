@@ -26,4 +26,3 @@ I would like to apply the sampling methods for imbalanced data sets discussed in
 * Japkowicz, Nathalie. "The class imbalance problem: Significance and strategies." Proc. of the Int’l Conf. on Artificial Intelligence. 2000.
 * Data set to be used is the wine quality data set https://archive.ics.uci.edu/ml/datasets/wine+quality
 * For computation : https://github.com/scikit-learn-contrib/imbalanced-learn
-# statistical_modelling_project
